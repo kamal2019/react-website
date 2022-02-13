@@ -42,7 +42,9 @@
   },
   "description": "![image](https://user-images.githubusercontent.com/47470542/149895540-09cd2f19-20fb-41ec-80f1-2a1501e99bd4.png)\r ![image](https://user-images.githubusercontent.com/47470542/149895617-31141e01-3c6e-4bca-bc31-8cef62d6f930.png)\r ![image](https://user-images.githubusercontent.com/47470542/149895677-f0ae6389-773a-4389-872d-2a78c23a7461.png)\r ![image](https://user-images.githubusercontent.com/47470542/149895718-59cd7ec6-4eea-479b-85a0-e20c1c6422d6.png)\r ![image](https://user-images.githubusercontent.com/47470542/149895785-93e11362-ba89-4771-bd96-242750f72b3e.png)",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "mini-css-extract-plugin": "2.4.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kamal2019/react-website.git"
